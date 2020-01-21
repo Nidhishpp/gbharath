@@ -1,0 +1,28 @@
+/* Color */
+.section--base-bg {
+    background-color: #b4fc5a;
+}
+
+.posts .__item--preview .__date-post {
+    background-color: #b4fc5a;
+    color: #38422c;
+}
+
+@media (min-width: 576px) {
+    .review:before {
+        color: #b4fc5a;
+    }
+}
+
+.custom-btn {
+    border: 2px solid #b4fc5a;
+}
+
+/* Other */
+
+.start-screen {
+    background-image: url('/img/home_img/download.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
